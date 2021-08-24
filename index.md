@@ -1,3 +1,5 @@
+
+## News
 - [Google News](https://news.google.com)
 - [Hacker News](https://news.ycombinator.com/)
 - [Bloomberg](https://www.bloomberg.com/)
@@ -11,8 +13,7 @@
 - [Visual Capitalist](https://www.visualcapitalist.com/)
 - [Five Thirty Eight](https://fivethirtyeight.com/)
 
-# Fun
-
+## Fun
 - [Cyclingnews](https://www.cyclingnews.com/)
 - [xkcd](https://xkcd.com/)
 - [Digg](https://digg.com/)
