@@ -1,12 +1,10 @@
-# Bookmarks
 - [Google News](https://news.google.com)
 - [Hacker News](https://news.ycombinator.com/)
-- Denver Post
-- BBC
-- xkcd
-- reddit
-- Atlantic
-- Margin Revolution
+- [Denver Post](https://www.denverpost.com/)
+- [BBC](https://www.bbc.com/)
+- [xkcd](https://xkcd.com/)
+- [Reddit](https://www.reddit.com/)
+- Marginal Revolution
 - Five Thirty Eight
 - WSJ
 - Economist
