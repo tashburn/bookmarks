@@ -5,11 +5,13 @@
 - [Bloomberg](https://www.bloomberg.com/)
 - [WSJ](https://www.wsj.com/)
 - [NY Times](https://www.nytimes.com/)
-- [Marginal Revolution](https://marginalrevolution.com/)
 - [Denver Post](https://www.denverpost.com/)
-- [Ars Technica](https://arstechnica.com/)
 - [Economist](https://www.economist.com/)
 - [BBC](https://www.bbc.com/)
+
+## Publications
+- [Ars Technica](https://arstechnica.com/)
+- [Marginal Revolution](https://marginalrevolution.com/)
 - [Visual Capitalist](https://www.visualcapitalist.com/)
 - [Five Thirty Eight](https://fivethirtyeight.com/)
 
