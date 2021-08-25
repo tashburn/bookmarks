@@ -21,6 +21,10 @@
 [Digg](https://digg.com/)
 [Reddit](https://www.reddit.com/)
 
+**Other**
+[Startup Resources](/stack)
+[Unusual Beliefs](/unusual-beliefs)
+
 
 <!--
 ## News
