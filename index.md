@@ -1,4 +1,9 @@
 
+| News | Publications | Fun |
+| --- | --- | --- |
+| [Google News](https://news.google.com) | [Ars Technica](https://arstechnica.com/) | [Cyclingnews](https://www.cyclingnews.com/) |
+| [Hacker News](https://news.ycombinator.com/) | [Marginal Revolution](https://marginalrevolution.com/) | [xkcd](https://xkcd.com/) |
+
 ## News
 - [Google News](https://news.google.com)
 - [Hacker News](https://news.ycombinator.com/)
@@ -23,7 +28,3 @@
 
 
 
-| News | Publications | Fun |
-| --- | --- | --- |
-| - [Google News](https://news.google.com) | - [Ars Technica](https://arstechnica.com/) | - [Cyclingnews](https://www.cyclingnews.com/) |
-| - [Hacker News](https://news.ycombinator.com/) | - [Marginal Revolution](https://marginalrevolution.com/) | - [xkcd](https://xkcd.com/) |
