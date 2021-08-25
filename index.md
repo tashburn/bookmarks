@@ -1,24 +1,24 @@
 
-**News** 
-[Google News](https://news.google.com)
-[Hacker News](https://news.ycombinator.com/)
-[Bloomberg](https://www.bloomberg.com/)
-[WSJ](https://www.wsj.com/)
-[NY Times](https://www.nytimes.com/)
-[Denver Post](https://www.denverpost.com/)
-[Economist](https://www.economist.com/)
+**News** — 
+[Google News](https://news.google.com),
+[Hacker News](https://news.ycombinator.com/),
+[Bloomberg](https://www.bloomberg.com/),
+[WSJ](https://www.wsj.com/),
+[NY Times](https://www.nytimes.com/),
+[Denver Post](https://www.denverpost.com/),
+[Economist](https://www.economist.com/),
 [BBC](https://www.bbc.com/)
 
-**Publications**
-[Ars Technica](https://arstechnica.com/)
-[Marginal Revolution](https://marginalrevolution.com/)
-[Visual Capitalist](https://www.visualcapitalist.com/)
+**Publications** —
+[Ars Technica](https://arstechnica.com/),
+[Marginal Revolution](https://marginalrevolution.com/),
+[Visual Capitalist](https://www.visualcapitalist.com/),
 [Five Thirty Eight](https://fivethirtyeight.com/)
 
-**Fun**
-[Cyclingnews](https://www.cyclingnews.com/)
-[xkcd](https://xkcd.com/)
-[Digg](https://digg.com/)
+**Fun** —
+[Cyclingnews](https://www.cyclingnews.com/),
+[xkcd](https://xkcd.com/),
+[Digg](https://digg.com/),
 [Reddit](https://www.reddit.com/)
 
 
