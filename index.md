@@ -1,12 +1,12 @@
 
-**News** — 
-[Google News](https://news.google.com),
-[Hacker News](https://news.ycombinator.com/),
-[Bloomberg](https://www.bloomberg.com/),
-[WSJ](https://www.wsj.com/),
-[NY Times](https://www.nytimes.com/),
-[Denver Post](https://www.denverpost.com/),
-[Economist](https://www.economist.com/),
+**News**
+[Google News](https://news.google.com)
+[Hacker News](https://news.ycombinator.com/)
+[Bloomberg](https://www.bloomberg.com/)
+[WSJ](https://www.wsj.com/)
+[NY Times](https://www.nytimes.com/)
+[Denver Post](https://www.denverpost.com/)
+[Economist](https://www.economist.com/)
 [BBC](https://www.bbc.com/)
 
 **Publications** —
