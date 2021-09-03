@@ -20,8 +20,9 @@
 [xkcd](https://xkcd.com/)
 [Digg](https://digg.com/)
 [Reddit](https://www.reddit.com/)
+[Starter Story](https://www.starterstory.com/)
 
-**Other**
+**Mine**
 [Startup Resources](/stack)
 [Unusual Beliefs](/unusual-beliefs)
 
