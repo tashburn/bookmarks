@@ -22,6 +22,7 @@
 [Reddit](https://www.reddit.com/)
 [Indie Hackers](https://www.indiehackers.com/)
 [Starter Story](https://www.starterstory.com/)
+[Lobsters](https://lobste.rs/)
 
 **Mine**
 [Startup Resources](/stack)
