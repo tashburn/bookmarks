@@ -28,7 +28,7 @@
 [You](https://you.com)
 
 **Mine**
-[Startup Resources](/stack)
+[Startup Resources](/stacks)
 [Unusual Beliefs](/unusual-beliefs)
 
 
