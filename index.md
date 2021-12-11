@@ -23,6 +23,8 @@
 [Indie Hackers](https://www.indiehackers.com/)
 [Starter Story](https://www.starterstory.com/)
 [Lobsters](https://lobste.rs/)
+[Hackaday](https://hackaday.com/)
+[Yanko Design](https://www.yankodesign.com/)
 
 **Utility**
 [You](https://you.com)
