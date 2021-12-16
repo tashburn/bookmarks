@@ -22,10 +22,15 @@
 [Reddit](https://www.reddit.com/)
 [Indie Hackers](https://www.indiehackers.com/)
 [Starter Story](https://www.starterstory.com/)
-[Lobsters](https://lobste.rs/)
 [Hackaday](https://hackaday.com/)
 [Yanko Design](https://www.yankodesign.com/)
+
+**Programming**
+[Lobsters](https://lobste.rs/)
 [Brown PLT](https://cs.brown.edu/research/plt/)
+[Daniel Markham](https://danielbmarkham.com/)
+[ButtonDown](https://buttondown.email/hillelwayne)
+[Wayne Hillel](https://www.hillelwayne.com/)
 
 **Utility**
 [You](https://you.com)
