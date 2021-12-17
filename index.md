@@ -24,6 +24,7 @@
 [Starter Story](https://www.starterstory.com/)
 [Hackaday](https://hackaday.com/)
 [Yanko Design](https://www.yankodesign.com/)
+[Pocket](https://getpocket.com/collections?utm_source=homepage)
 
 **Programming**
 [Lobsters](https://lobste.rs/)
