@@ -32,6 +32,7 @@
 [Daniel Markham](https://danielbmarkham.com/)
 [ButtonDown](https://buttondown.email/hillelwayne)
 [Wayne Hillel](https://www.hillelwayne.com/)
+[Joe Duffy](http://joeduffyblog.com/2015/11/03/blogging-about-midori/)
 
 **Utility**
 [You](https://you.com)
