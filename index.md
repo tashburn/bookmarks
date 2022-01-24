@@ -26,13 +26,14 @@
 [Yanko Design](https://www.yankodesign.com/)
 [Pocket](https://getpocket.com/collections?utm_source=homepage)
 
-**Programming**
+**Programming / Tech**
 [Lobsters](https://lobste.rs/)
 [Brown PLT](https://cs.brown.edu/research/plt/)
 [Daniel Markham](https://danielbmarkham.com/)
 [ButtonDown](https://buttondown.email/hillelwayne)
 [Wayne Hillel](https://www.hillelwayne.com/)
 [Joe Duffy](http://joeduffyblog.com/2015/11/03/blogging-about-midori/)
+[Dominic Tobias](https://dominictobias.medium.com/)
 
 **Utility**
 [You](https://you.com)
