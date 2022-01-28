@@ -36,6 +36,7 @@
 [Dominic Tobias](https://dominictobias.medium.com/)
 
 **Utility**
+[Kagi](https://kagi.com/)
 [You](https://you.com)
 [Andi](https://andisearch.com/)
 
