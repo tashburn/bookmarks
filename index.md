@@ -8,6 +8,7 @@
 [Denver Post](https://www.denverpost.com/)
 [Economist](https://www.economist.com/)
 [BBC](https://www.bbc.com/)
+[CNN](https://www.cnn.com/)
 
 **Publications**
 [Ars Technica](https://arstechnica.com/)
