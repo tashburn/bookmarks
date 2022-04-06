@@ -37,6 +37,7 @@
 [Marginal Revolution](https://marginalrevolution.com/)
 [Visual Capitalist](https://www.visualcapitalist.com/)
 [Five Thirty Eight](https://fivethirtyeight.com/)
+[Kottke](https://kottke.org/)
 
 **Fun**
 [Cyclingnews](https://www.cyclingnews.com/)
