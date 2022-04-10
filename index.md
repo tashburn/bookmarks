@@ -31,6 +31,7 @@
 [Brookings](https://www.brookings.edu/topic/international-affairs/)
 [Rand](https://www.rand.org/topics/international-affairs.html)
 [RT](https://www.rt.com/news/)
+[Meduza](https://meduza.io/en)
 
 **Publications**
 [Ars Technica](https://arstechnica.com/)
