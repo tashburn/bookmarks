@@ -66,6 +66,12 @@
 [Andi](https://andisearch.com/)
 [Buy Used Computer Hardware](https://www.bytebucket.co/?)
 
+**Speed Tests**
+[Cloudflare](https://speed.cloudflare.com/)
+[Fast](https://fast.com/)
+[Ookla](https://www.speedtest.net/result/13048105907)
+[Comcast](https://speedtest.xfinity.com/results)
+
 **Mine**
 [Startup Resources](/stacks)
 [Unusual Beliefs](/unusual-beliefs)
