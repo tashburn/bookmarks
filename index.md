@@ -59,6 +59,7 @@
 [Wayne Hillel](https://www.hillelwayne.com/)
 [Joe Duffy](http://joeduffyblog.com/2015/11/03/blogging-about-midori/)
 [Dominic Tobias](https://dominictobias.medium.com/)
+[Eric Jang](https://evjang.com/2022/04/25/rome.html)
 
 **Utility**
 [Kagi](https://kagi.com/)
