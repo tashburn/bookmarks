@@ -69,6 +69,7 @@
 
 **Communities**
 [Brainboard Cloud Infra](https://app.slack.com/client/T010H7DGJ8L/C0104T2EW7L)
+[YC Cloud Infrastructure Startup Community](https://app.slack.com/client/T03GZH69VHP)
 
 **Speed Tests**
 [Cloudflare](https://speed.cloudflare.com/)
