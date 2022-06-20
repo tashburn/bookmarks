@@ -62,6 +62,7 @@
 [Rhonda Patrick](https://www.foundmyfitness.com/)
 [Pragmatic Engineer](https://blog.pragmaticengineer.com/)
 [CommonCog](https://commoncog.com/blog/author/cedric/)
+[TLDR](https://tldr.tech/newsletter/2022-06-20)
 
 **Programming / Tech**
 [Lobsters](https://lobste.rs/)
