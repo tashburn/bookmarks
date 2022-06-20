@@ -41,7 +41,7 @@
 [Kottke](https://kottke.org/)
 [Science Daily](https://www.sciencedaily.com/news/top/)
 
-## Occasional
+**Occasional**
 [Recomendo](https://www.getrevue.co/profile/Recomendo)
 [Exponential View](https://www.exponentialview.co/newsletter/)
 [Noahpinion](https://noahpinion.substack.com/)
