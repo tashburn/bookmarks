@@ -41,17 +41,6 @@
 [Kottke](https://kottke.org/)
 [Science Daily](https://www.sciencedaily.com/news/top/)
 
-**Occasional**
-[Recomendo](https://www.getrevue.co/profile/Recomendo)
-[Exponential View](https://www.exponentialview.co/newsletter/)
-[Noahpinion](https://noahpinion.substack.com/)
-[James Clear](https://jamesclear.com/3-2-1)
-[Benedict Evans](https://www.ben-evans.com/)
-[Eric Barker](https://bakadesuyo.com/blog/)
-[Rhonda Patrick](https://www.foundmyfitness.com/)
-[Pragmatic Engineer](https://blog.pragmaticengineer.com/)
-[CommonCog](https://commoncog.com/blog/author/cedric/)
-
 **Fun**
 [Cyclingnews](https://www.cyclingnews.com/)
 [xkcd](https://xkcd.com/)
@@ -62,6 +51,17 @@
 [Hackaday](https://hackaday.com/)
 [Yanko Design](https://www.yankodesign.com/)
 [Pocket](https://getpocket.com/collections?utm_source=homepage)
+
+**Occasional**
+[Recomendo](https://www.getrevue.co/profile/Recomendo)
+[Exponential View](https://www.exponentialview.co/newsletter/)
+[Noahpinion](https://noahpinion.substack.com/)
+[James Clear](https://jamesclear.com/3-2-1)
+[Benedict Evans](https://www.ben-evans.com/)
+[Eric Barker](https://bakadesuyo.com/blog/)
+[Rhonda Patrick](https://www.foundmyfitness.com/)
+[Pragmatic Engineer](https://blog.pragmaticengineer.com/)
+[CommonCog](https://commoncog.com/blog/author/cedric/)
 
 **Programming / Tech**
 [Lobsters](https://lobste.rs/)
