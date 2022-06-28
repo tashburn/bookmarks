@@ -63,6 +63,7 @@
 [Pragmatic Engineer](https://blog.pragmaticengineer.com/)
 [CommonCog](https://commoncog.com/blog/author/cedric/)
 [TLDR](https://tldr.tech/newsletter/2022-06-20)
+[Insights from Historical Figures](https://dkb.show/)
 
 **Programming / Tech**
 [Lobsters](https://lobste.rs/)
