@@ -80,6 +80,7 @@
 [You](https://you.com)
 [Andi](https://andisearch.com/)
 [Buy Used Computer Hardware](https://www.bytebucket.co/?)
+[Search Engine for Devs](https://beta.sayhello.so/)
 
 **Communities**
 [Brainboard Cloud Infra](https://app.slack.com/client/T010H7DGJ8L/C0104T2EW7L)
