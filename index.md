@@ -32,6 +32,7 @@
 [Rand](https://www.rand.org/topics/international-affairs.html)
 [RT](https://www.rt.com/news/)
 [Meduza](https://meduza.io/en)
+[National Review](https://www.nationalreview.com/)
 
 **Publications**
 [Ars Technica](https://arstechnica.com/)
@@ -40,6 +41,7 @@
 [Five Thirty Eight](https://fivethirtyeight.com/)
 [Kottke](https://kottke.org/)
 [Science Daily](https://www.sciencedaily.com/news/top/)
+[Technology Review](https://www.technologyreview.com/)
 
 **Fun**
 [Cyclingnews](https://www.cyclingnews.com/)
@@ -64,6 +66,8 @@
 [CommonCog](https://commoncog.com/blog/author/cedric/)
 [TLDR](https://tldr.tech/newsletter/2022-06-20)
 [Insights from Historical Figures](https://dkb.show/)
+[Marginalian](https://www.themarginalian.org/)
+[Active Minds](https://www.activeminds.com/events_denver.html)
 
 **Programming / Tech**
 [Lobsters](https://lobste.rs/)
